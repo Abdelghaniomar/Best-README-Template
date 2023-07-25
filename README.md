@@ -29,7 +29,7 @@
   </a>
 
   <h3 align="center">Dome Registry</h3>
-
+</div>
   
 
 
