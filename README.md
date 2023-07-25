@@ -22,7 +22,7 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
+<br/>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -41,7 +41,7 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Nest][Nest.js]][NestJS-url]
+* [![Nest][nestjs.com]][Nestjs-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -153,5 +153,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[NestJS-url]:https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
-
+[nestjs.com]:https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
+[Nesjs-url]:https://nestjs.com/
